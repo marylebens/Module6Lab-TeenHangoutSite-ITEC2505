@@ -1,0 +1,12 @@
+/* Add your custom CSS styles here */
+
+/* This is a custom style */
+#hero {
+    background-color: #2ecc71;
+}
+
+/* Override an existing style */
+.social-links a {
+    text-decoration: none;
+    font-weight: bold;
+}
